@@ -1,5 +1,5 @@
 class  Table2
-
+{
 	public static void main(String[] args) 
 	{   
 		Table2.one(1);
